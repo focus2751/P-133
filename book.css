@@ -1,0 +1,37 @@
+body
+{
+    background-color: E8DFCA;
+}
+
+.name
+{
+    width: 100;
+    font-size: larger;
+    margin-top: 0px;
+}
+
+.link
+{
+    color: black;
+    background-color: A4BE7B;
+    font-size: 20px;
+    width: 80px;
+    border-radius: 10px;
+    float:left;
+}
+
+canvas
+{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
+
+#status
+{
+    font-size: 30px;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 6px;
+    background-color:B6E2A1;
+    margin: -50px;
+}

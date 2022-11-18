@@ -1,0 +1,20 @@
+
+body
+{
+    background-color: B7CADB;
+}
+
+#headededed
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    color: CA965C;
+}
+
+a
+{
+    font-size:  30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
